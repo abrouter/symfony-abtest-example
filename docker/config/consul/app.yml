@@ -1,0 +1,13 @@
+$SERVICE_KV_PATH$/service-url: https://127.0.0.1:9541
+$SERVICE_KV_PATH$/app-env: dev
+$SERVICE_KV_PATH$/app-secret: a55b90a08339d0247d7eb712a635563b
+$SERVICE_KV_PATH$/jwt/public: /app/config/jwt/public
+$SERVICE_KV_PATH$/jwt/secret: /app/config/jwt/secret
+$SERVICE_KV_PATH$/jwt/passphrase: h>yVc1A_5MY<LbV
+
+$SERVICE_KV_PATH$/redis/host: launch-redis
+$SERVICE_KV_PATH$/redis/db_number: 0
+$SERVICE_KV_PATH$/redis/sessions_db: 1
+$SERVICE_KV_PATH$/redis/port: 6379
+
+$SERVICE_KV_PATH$/db_config: mysql://root:M8uCzcVyrw6NsMpU@mysql:3306/holyeat-launch?serverVersion=5.5

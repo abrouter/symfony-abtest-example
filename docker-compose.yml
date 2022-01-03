@@ -1,0 +1,15 @@
+version: '3.5'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: abr-symfony-client
+    image: abr-symfony-client:abr-symfony-client
+    container_name: abr-symfony-client
+    hostname: docker-dev-local-om
+    ports:
+      - "1029:80"
+    volumes:
+      - .:/app
