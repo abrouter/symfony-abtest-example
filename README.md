@@ -4,4 +4,4 @@ Hi everyone. This is a example of using ABRouter with Symfony via [Symfony AB Te
 
 Please, see the controller [src/Controller/IndexController.php](https://github.com/abrouter/symfony-abtest-example/blob/main/src/Controller/IndexController.php)
 
-And of course you're welcome to read the [ABRouter Docs](https://abrouter.com/en/docs)
+And of course you're welcome to read the [ABRouter Docs](https://docs.abrouter.com/docs/intro/)
